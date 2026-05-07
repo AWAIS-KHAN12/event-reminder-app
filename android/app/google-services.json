@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874432384266",
+    "project_id": "event-reminder-2025",
+    "storage_bucket": "event-reminder-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874432384266:android:6edd6aba3ae3ee76bdfef3",
+        "android_client_info": {
+          "package_name": "com.example.event_reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ZjgKWi5wGMSSZlA_CMZXRG7zwdz4GF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
