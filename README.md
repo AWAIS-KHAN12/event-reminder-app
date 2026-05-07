@@ -84,7 +84,14 @@ Gemini API for Natural Language Processing (NLP).
 
 ## Screenshots
 
-(Add your application screenshots here)
+<img width="1914" height="885" alt="image" src="https://github.com/user-attachments/assets/fd9dcbfc-652b-4424-8d33-3394f89c225c" />
+<img width="1577" height="904" alt="image" src="https://github.com/user-attachments/assets/20f8e070-5b62-433d-8126-9d509e59d04c" />
+<img width="1661" height="889" alt="image" src="https://github.com/user-attachments/assets/0db8ee5b-7022-4805-9920-e3779e52b4b1" />
+<img width="1660" height="776" alt="image" src="https://github.com/user-attachments/assets/093dd18f-0a9e-4176-9ba9-2730b9d0f678" />
+<img width="1657" height="763" alt="image" src="https://github.com/user-attachments/assets/7c3ef5b6-9f29-4c63-b970-3626c80744f7" />
+<img width="1536" height="643" alt="image" src="https://github.com/user-attachments/assets/7900c28f-d487-4b10-935b-db1cbcb4da55" />
+<img width="1043" height="730" alt="image" src="https://github.com/user-attachments/assets/857ae770-27da-4455-b7aa-5088078cfe27" />
+
 
 ```markdown
 ![Home Screen](screenshots/home.png)
