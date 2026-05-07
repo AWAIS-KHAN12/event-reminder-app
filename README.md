@@ -72,13 +72,6 @@ Gemini API for Natural Language Processing (NLP).
 
 ---
 
-## Project Members
-
-- Hussain Mehdi (242763)
-- Muhammad Ehtisham (242838)
-
----
-
 ## Future Improvements
 
 - Voice-based reminder creation
