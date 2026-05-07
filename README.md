@@ -1,16 +1,20 @@
-# event_reminder_app
+# Event Reminder App
 
-A new Flutter project.
+A Flutter-based mobile application developed using Dart and Flutter.
 
-## Getting Started
+## Features
+- Create and manage events
+- Set reminders and notifications
+- Notification alerts before event deadlines
+- User-friendly UI
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Local Notifications
 
-A few resources to get you started if this is your first Flutter project:
+## Project Type
+Mobile Computing Course Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+Awais Khan
