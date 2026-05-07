@@ -93,9 +93,6 @@ Gemini API for Natural Language Processing (NLP).
 <img width="1043" height="730" alt="image" src="https://github.com/user-attachments/assets/857ae770-27da-4455-b7aa-5088078cfe27" />
 
 
-```markdown
-![Home Screen](screenshots/home.png)
-```
 
 ---
 
